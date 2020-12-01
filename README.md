@@ -1,3 +1,3 @@
 # wedding
 
-[演示链接](https://sunweiling.github.io/wedding/)
+[演示链接](https://zbyzhang.github.io/wedding/)
